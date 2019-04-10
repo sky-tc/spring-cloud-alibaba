@@ -20,8 +20,6 @@ import org.springframework.beans.factory.BeanFactory;
 
 import feign.Feign;
 import feign.Retryer;
-import feign.hystrix.HystrixFeign;
-import org.springframework.boot.autoconfigure.data.redis.RedisProperties.Sentinel;
 import org.springframework.cloud.alibaba.sentinel.feign.SentinelFeign;
 
 /**

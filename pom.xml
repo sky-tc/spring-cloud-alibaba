@@ -103,15 +103,16 @@
         <module>spring-cloud-alicloud-context</module>
         <module>spring-cloud-alibaba-examples</module>
         <module>spring-cloud-alibaba-test</module>
-        <module>spring-cloud-alibaba-docs</module>
+        <!--<module>spring-cloud-alibaba-docs</module>-->
         <module>spring-cloud-starter-alibaba</module>
-        <module>spring-cloud-starter-alicloud</module>
+        <!--<module>spring-cloud-starter-alicloud</module>
         <module>spring-cloud-alicloud-oss</module>
         <module>spring-cloud-alicloud-acm</module>
         <module>spring-cloud-alicloud-ans</module>
         <module>spring-cloud-alicloud-schedulerx</module>
         <module>spring-cloud-alicloud-sms</module>
         <module>spring-cloud-alibaba-coverage</module>
+        -->
     </modules>
 
     <dependencyManagement>
